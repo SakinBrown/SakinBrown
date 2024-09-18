@@ -2,7 +2,6 @@
 
 
 This is a repository created by *Sakin*
-I am currently a Code2College Student for the Elite 101 course.
 
 
 ## Usage
